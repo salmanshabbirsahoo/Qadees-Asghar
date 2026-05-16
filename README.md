@@ -96,5 +96,5 @@ Passionate about building efficient software solutions, solving real-world probl
 </div>
 
 <p align="center">
-Built for computer science, software development, and future opportunities 🚀
+Built for computer science
 </p>
